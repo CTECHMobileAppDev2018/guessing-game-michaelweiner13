@@ -11,6 +11,7 @@ public class GuessingGame {
         // Set to 1 to account for the first guess
         int numberOfGuesses = 1;
         
+        
         Random rand = new Random(); // Create a new random object named 'rand' to generate a random value from 0-100 (inclusive)
         int computerNumber = rand.nextInt(101); // Declare and initalize an int varaible named 'computerNumber' to hold a random value from 0-100 (inclusive)
         
