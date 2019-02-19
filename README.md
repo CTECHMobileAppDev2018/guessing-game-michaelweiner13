@@ -15,7 +15,7 @@ This program has a several measures to account for user error.
   <li>Any guesses that break these rules (strings, numbers outside of the specified range, etc.) do NOT count against the user.</li>
 </ul>
 
-### Problem to Solve:
+## Problem to Solve:
 Create a guessing game that tells the user to guess a number between 1 and 100.
 
 Every time the user enters a number, tell them whether it was too high or too low.
