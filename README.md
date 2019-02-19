@@ -10,8 +10,8 @@ A simple Java program to allow the user to guess the computer's number from 0 to
 ### Error-Checking
 This program has a several measures to account for user error.
 <ul>
-  <li>The Scanner Object used to take the user's input checks to make sure that the user input is an Integer.</li>
-  <li>The Scanner Object used to take the user's input checks to make sure the Integer is between 0 and 100 (inclusive).</li>
+  <li>The Scanner used to take the user's input is checked to make sure that the user input is an Integer.</li>
+  <li>The Scanner used to take the user's input is checked to make sure the user's Integer is between 0 and 100 (inclusive).</li>
   <li>Any guesses that break these rules (strings, numbers outside of the specified range, etc.) do NOT count against the user.</li>
 </ul>
 
