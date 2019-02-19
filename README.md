@@ -1,7 +1,7 @@
 # 0-100 Guessing Game
 A simple Java program to allow the user to guess the computer's number from 0 to 100 (inclusive). This program solves the problem listed below.
 
-## Required Imports
+### Required Imports
 <ul>
   <li>java.util.Random</li>
   <li>java.util.Scanner</li>
